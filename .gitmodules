@@ -1,3 +1,6 @@
 [submodule "mathmacros"]
-	path = mathmacros
+	path = src/mathmacros
+	url = https://github.com/Advanced-Systems/mathmacros
+[submodule "src/mathmacros"]
+	path = src/mathmacros
 	url = https://github.com/Advanced-Systems/mathmacros
